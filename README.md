@@ -9,7 +9,7 @@ This script can be used to cleanly install Microsoft office 2019. This repositor
 
 4] Restart the system.
 
-5] Open office setup folder. run office setup 32/64 according to your system configuration for office 16.
+5] Open office setup folder. run office setup 32/64 according to your system configuration for office setup.exe.
 
 6] Run windows desktop runtime x64.exe for office 19.
 

@@ -23,8 +23,4 @@ This script can be used to cleanly install Microsoft office 2019. This repositor
 
 10] Copy the downloaded 'Configuration.xml' file to the root of the C drive, i.e. 'C:\'
 
-11] Open cmd as administrator and paste the following; 
-   cd /d C:\
-   /configure Configuration.xml
-
 11] After doing all the steps correctly, you will gat an activeted copy of office 16 or office 19. Enjoy!

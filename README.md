@@ -5,6 +5,6 @@ This script can be used to cleanly install Microsoft office 2019. This repositor
 
 2]After doing the following, reboot the system.
 
-3]Open office scrubber and run as administrator full scrub.cmd
+3]Open office scrubber.cmd and run as administrator full scrub.cmd
 
 4]Restart the system.

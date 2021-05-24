@@ -20,3 +20,5 @@ This script can be used to cleanly install Microsoft office 2019. This repositor
 8] Click [4] Online KMS Activation - Windows /Server /Office
 
 9] You will get a screen wih several options. you need to click: [1] Activate - Windows /Server /Office
+
+10] After doing all the steps correctly, you will gat an activeted copy of office 16 or office 19. Enjoy!

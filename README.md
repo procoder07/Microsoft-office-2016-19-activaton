@@ -9,6 +9,8 @@ This script can be used to cleanly install Microsoft office 2019. This repositor
 
 4] Restart the system.
 
-6] run microsoft activation script V-1.4.cmd
-click [4] Online KMS Activation - Windows /Server /Office
-you will get a screen wih several options. you need to click: [1] Activate - Windows /Server /Office
+6] Run microsoft activation script V-1.4.cmd
+
+7] Click [4] Online KMS Activation - Windows /Server /Office
+
+8] You will get a screen wih several options. you need to click: [1] Activate - Windows /Server /Office
